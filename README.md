@@ -18,7 +18,11 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 
 最低限必要な素材は、正面　左右　後ろ姿　の4枚の画像が必要です。
 
+![gray_idle_4way](https://user-images.githubusercontent.com/62424367/106199342-a6041080-61f8-11eb-9e9d-4c766d37dc5f.png)
+
 8方向の画像があると、少しリッチな絵作りになります。(たくさん作るのは大変です）
+
+![gray_idle](https://user-images.githubusercontent.com/62424367/106199357-ad2b1e80-61f8-11eb-9474-bc1a0762eda1.png)
 
 ## 動作環境
 - UE4.25以降
