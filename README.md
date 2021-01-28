@@ -40,3 +40,33 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 
 
 まだ書く
+
+
+
+
+
+
+
+
+## ライセンス
+完全なパブリックドメインとして公開します。
+
+
+## リリース履歴
+- 2021/01/29 公開
+
+## おわりに
+GitHubのデータアップロードに関しては、[**関サヴァイヴァー**さん](https://twitter.com/seki_survivor/status/1354034438389129216?s=20)に教えてもらって、なんとかなりました。
+
+こちらのREADMEを作成にあたっては、[**Alwei**さんの**PPCelShader**](https://github.com/alwei/PPCelShader)、[**はるべぇ**さんの**VRM4U**](https://github.com/ruyo/VRM4U)、[**Mignon Style**さんの**Markdown記法 チートシート**](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)を参考に、作成させていただきました。
+
+いつも情報共有感謝します！
+
+このプロジェクトは[**KU**さん](https://twitter.com/KUforRPGmv)からの質問に答える形で、なんとなく作ったプロジェクトで、今のところ自分で使う予定がないので、
+
+誰か、このプロジェクトを参考に、楽しいものを作ってくれたら嬉しいです。
+
+PS1の時代から3Dに傾倒しなかった未来を見れたら嬉しいです。
+
+## 作った人
+[@O_Y_G](https://twitter.com/O_Y_G)
