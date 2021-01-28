@@ -67,7 +67,7 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 ![TPSprite_007](https://user-images.githubusercontent.com/62424367/106200576-88d04180-61fa-11eb-9da4-0b379251f0da.jpg)
 
 - Sampleフォルダに今回使ったキャラクター画像があるので、手書きでこの枚数書くと、出来上がります。（大変）
-- まずはidle画像を4枚だけ用意して、試してみることをお勧めします。
+- まずはidle画像を4枚だけ用意して、差し替えてみることをお勧めします。
 
 ## ライセンス
 完全なパブリックドメインとして公開します。
