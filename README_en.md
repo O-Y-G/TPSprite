@@ -1,102 +1,102 @@
 # Unreal Engine 4 Third Person Sprite Project (TPSprite)
 English README
 
-作成バージョンUE4(Win)　4.25.4　(Blueprint Project)
+Created VersionUE4(Win)　4.25.4　(Blueprint Project)
 
 
-## はじめに
-Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下　TPSpriteとします。
+## Introduction
+The Unreal Engine 4 Third Person Sprite Project is a bit long, so we'll call it TPSprite.
 
-サードパーソンテンプレートの3Dmodelを、2D画像に差し替えたものになります。
+The 3D model of the third person template has been replaced with a 2D image.
 
-また、製作者は、GitHubに不慣れなため、作法から逸れたことをしていた場合は、ご指摘いただければと思います。
+Also, since the author is not familiar with GitHub, please point out to us if we have deviated from the etiquette.
 
-## 特徴
-2D画像を用意するだけで、3D空間上でキャラクターを動かすことができます。
+## Features
+By simply preparing a 2D image, you can move the character in 3D space.
 
 ![TPSprite2](https://user-images.githubusercontent.com/62424367/106193927-81586a80-61f1-11eb-9eb9-da26bba331b7.gif)
 
-最低限必要な素材は、正面　左右　後ろ姿　の4枚の画像が必要です。
+The minimum material required is four images: front, left, right, and back.
 
 ![gray_idle_4way](https://user-images.githubusercontent.com/62424367/106199342-a6041080-61f8-11eb-9e9d-4c766d37dc5f.png)
 
-8方向の画像があると、少しリッチな絵作りになります。(たくさん作るのは大変です）
+An 8-way image makes for a slightly richer picture creation. (It's hard to make many of them)
 
 ![gray_idle](https://user-images.githubusercontent.com/62424367/106199357-ad2b1e80-61f8-11eb-9474-bc1a0762eda1.png)
 
-## 動作環境
-- UE4.25以降
-- Windowsで制作していますが、Macと共有できるんですかね？
-- SaveフォルダのConfigデータは、フォルダの色指定を生かしたい為入れてあります。
-- 基本機能だけなので、通常のUE4が動く環境であれば、動くと思います。
+## Operating environment
+- UE4.25 or later
+- I'm working on Windows, can I share it with Mac?
+- The Config data in the Save folder is included to take advantage of the folder's color specification.
+- It's just a basic function, so it will work on any environment that can run regular UE4.
 
-## 使い方
-- まずダウンロード
+## How to use
+- First, download
 
 ![TPSprite_download2](https://user-images.githubusercontent.com/62424367/106183353-75fe4280-61e3-11eb-8b74-b1c2e51bba05.jpg)
 
-- いつもUE4プロジェクトを置いてる場所にZipを解答し、プロジェクトデータをダブルクリックで開く。
+- Answer the Zip in the place where you usually keep your UE4 project and double-click on the project data to open it.
 
 ![TPSprite_003](https://user-images.githubusercontent.com/62424367/106184384-cfb33c80-61e4-11eb-8abc-1ca02876bae7.jpg)
 
-- Epicランチャーから開いてもいいです。
+- You can also open it from the Epic launcher.
 
 ![TPSprite_004](https://user-images.githubusercontent.com/62424367/106185900-d773e080-61e6-11eb-9e6d-671cca8a18b1.jpg)
 
-- 今回の処理のメインは、こちらのThirdPersonSprite4way（4方向）とThirdPersonSprite8way（8方向）になります。
+- The main part of this process will be this ThirdPersonSprite4way (4 directions) and ThirdPersonSprite8way (8 directions).
 
 ![TPSprite_005](https://user-images.githubusercontent.com/62424367/106186737-0179d280-61e8-11eb-9fb2-f43d51b63993.jpg)
 
-- 今回の動画制作は、Tickで処理をしています。(滑らかな方が、動画的に見栄えが良い為)
-- 処理速度が気になる場合は、Tickの代わりにTimer by Eventなどで代用してください。
-- また、Materialでカメラ方向を向かせようとすると、影がついてこなかった為CPU側の処理にしています。
-- 影がいらない場合は、同梱のマテリアルを、Sprite To Camera　の関数の代わりに使うといいと思います。
-- NPC用のデータは、Timerで、距離に応じて処理速度が変わるようになっています。
-- 関数　UpdateFlipbookをダブルクリックで開いてください。
+- This video production is processed with Tick. (The smoother it is, the better it looks in the video.)
+- If you are concerned about the processing speed, use Timer by Event instead of Tick.
+- Also, when I tried to make the camera face the direction of the Material, the shadows didn't follow, so I made it a CPU-side process.
+- If you don't want shadows, you can use the included material instead of the Sprite To Camera function.
+- The data for NPCs is a Timer, which changes the processing speed depending on the distance.
+- Double-click on the function UpdateFlipbook to open it.
 
 ![TPSprite_006](https://user-images.githubusercontent.com/62424367/106187779-697ce880-61e9-11eb-8ea6-cfbc88c0d324.jpg)
 
-- Selectのタブに、Flipbookをしていすれば、画像が差し変わります。
-- Flipbookの作成方法が分からないかたは、下記のリンクをご確認ください。
-  - [UE4で2Dドット絵ゲームを作る際のTipsまとめ。 - Qiita](https://qiita.com/O_Y_G/items/cc1b4920a2b4a6bfd921)
-  - [UE4 2Dアクションゲームを作ろう #1 ドット絵キャラクター編 -YouTube](https://youtu.be/fo3xTxEyq-w)
+- If you select Flipbook in the Select tab, the image will be replaced.
+- If you do not know how to create a Flipbook, please check the link below.
+  - [A collection of tips for making 2D dot art games in UE4. - Qiita](https://qiita.com/O_Y_G/items/cc1b4920a2b4a6bfd921)
+  - [Let's make a UE4 2D action game #1 Dot-drawn characters -YouTube](https://youtu.be/fo3xTxEyq-w)
 
-少ししたら、動画で説明しようと思います。
+I'll try to explain it in a video in a little while.
 
-## Sample画像
+## Sample images
 ![TPSprite_007](https://user-images.githubusercontent.com/62424367/106200576-88d04180-61fa-11eb-9da4-0b379251f0da.jpg)
 
-- Sampleフォルダに今回使ったキャラクター画像があるので、手書きでこの枚数書くと、出来上がります。（大変）
-- まずはidle画像を4枚だけ用意して、差し替えてみることをお勧めします。
-- なお、今回のグレイマンのドット化は、こちらのツールを使って書き出したものになります。
-  - [3D to Pixel：ブループリント - UE マーケットプレイス](https://www.unrealengine.com/marketplace/ja/product/3d-to-pixels)
+- In the Sample folder, you will find the character images I used this time, so if you write these numbers by hand, it will be done. (Very hard)
+- We recommend that you start by preparing only four IDLE images and try replacing them.
+- Note that the dotted version of Gray Man was exported using this tool.
+  - [3D to Pixel: Blueprints - UE Marketplace](https://www.unrealengine.com/marketplace/ja/product/3d-to-pixels)
 
-## ライセンス
-完全なパブリックドメインとして公開します。
+## License
+It will be released as fully public domain.
 
 https://github.com/O-Y-G/TPSprite/blob/main/LICENSE
 
-## リリース履歴
-- 2021/01/29 公開
+## Release History
+- 2021/01/29 public
 
-## おわりに
-GitHubのデータアップロードに関しては、[**関サヴァイヴァー**さん](https://twitter.com/seki_survivor/status/1354034438389129216?s=20)に教えてもらって、なんとかなりました。
+## In closing
+As for the GitHub data upload, I was able to figure it out with [**関サヴァイヴァー**さん](https://twitter.com/seki_survivor/status/1354034438389129216?s=20)'s help.
 
-こちらのREADMEを作成にあたっては、
+In creating this README, we have used the
 - [**Alwei**さんの**PPCelShader**](https://github.com/alwei/PPCelShader)
 - [**はるべぇ**さんの**VRM4U**](https://github.com/ruyo/VRM4U)
 - [**Mignon Style**さんの**Markdown記法 チートシート**](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
 - [**akiyoko**さんの**GitHub の Wiki に画像を貼り付ける一番簡単な方法（Wiki リポジトリを clone しないバージョン）**](https://akiyoko.hatenablog.jp/entry/2016/08/30/051708)
 
-を参考に、作成させていただきました。
+I created this file based on
 
-いつも情報共有感謝します！
+Thanks again for sharing the info!
 
-このプロジェクトは[**KU**さん](https://twitter.com/KUforRPGmv)からの質問に答える形で、なんとなく作ったプロジェクトで、今のところ自分で使う予定がないので、
+This project was kind of made in response to a question from [**KU**さん](https://twitter.com/KUforRPGmv), and I don't have any plans to use it myself at the moment, 
 
-誰か、このプロジェクトを参考に、楽しいものを作ってくれたら嬉しいです。
+so I'd be happy if someone could use this project as a reference to make something fun.
 
-PS1の時代から3Dキャラクターに傾倒しなかった未来を見れたら嬉しいです。
+It would be great to see a future that didn't lean towards 3D characters from the days of PS1.
 
-## 作った人
+## author
 [@O_Y_G](https://twitter.com/O_Y_G)
