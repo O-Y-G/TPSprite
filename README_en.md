@@ -35,7 +35,7 @@ An 8-way image makes for a slightly richer picture creation. (It's hard to make 
 
 ![TPSprite_download2](https://user-images.githubusercontent.com/62424367/106183353-75fe4280-61e3-11eb-8b74-b1c2e51bba05.jpg)
 
-- Answer the Zip in the place where you usually keep your UE4 project and double-click on the project data to open it.
+- Unzip the zip to the location where you usually keep your UE4 project and double-click on the project data to open it.
 
 ![TPSprite_003](https://user-images.githubusercontent.com/62424367/106184384-cfb33c80-61e4-11eb-8abc-1ca02876bae7.jpg)
 
