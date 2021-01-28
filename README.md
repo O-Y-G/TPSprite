@@ -52,11 +52,9 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 ![TPSprite_006](https://user-images.githubusercontent.com/62424367/106187779-697ce880-61e9-11eb-8ea6-cfbc88c0d324.jpg)
 
 - Selectのタブに、Flipbookをしていすれば、画像が差し変わります。
-
-画像のインポート設定などに関しては、こちらも併せてご確認ください。
-- [UE4で2Dドット絵ゲームを作る際のTipsまとめ。 - Qiita](https://qiita.com/O_Y_G/items/cc1b4920a2b4a6bfd921)
-
-- [UE4 2Dアクションゲームを作ろう #1 ドット絵キャラクター編 -YouTube](https://youtu.be/fo3xTxEyq-w)
+- Flipbookの作成方法が分からないかたは、下記のリンクをご確認ください。
+  - [UE4で2Dドット絵ゲームを作る際のTipsまとめ。 - Qiita](https://qiita.com/O_Y_G/items/cc1b4920a2b4a6bfd921)
+  - [UE4 2Dアクションゲームを作ろう #1 ドット絵キャラクター編 -YouTube](https://youtu.be/fo3xTxEyq-w)
 
 まだ書く
 
