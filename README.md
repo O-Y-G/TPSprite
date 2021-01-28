@@ -1,5 +1,5 @@
 # Unreal Engine 4 Third Person Sprite Project (TPSprite)
-English README
+[English README](https://github.com/O-Y-G/TPSprite/blob/main/README_en.md)
 
 作成バージョンUE4(Win)　4.25.4　(Blueprint Project)
 
