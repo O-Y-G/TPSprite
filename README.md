@@ -14,6 +14,9 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 ----|---- 
 | 画像 | 画像 |
 
+画像のインポート設定などに関しては、こちらも併せてご確認ください。<br>
+> UE4で2Dドット絵ゲームを作る際のTipsまとめ。<br>
+> https://qiita.com/O_Y_G/items/cc1b4920a2b4a6bfd921
 
 <br>
 
