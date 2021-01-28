@@ -82,7 +82,13 @@ https://github.com/O-Y-G/TPSprite/blob/main/LICENSE
 ## おわりに
 GitHubのデータアップロードに関しては、[**関サヴァイヴァー**さん](https://twitter.com/seki_survivor/status/1354034438389129216?s=20)に教えてもらって、なんとかなりました。
 
-こちらのREADMEを作成にあたっては、[**Alwei**さんの**PPCelShader**](https://github.com/alwei/PPCelShader)、[**はるべぇ**さんの**VRM4U**](https://github.com/ruyo/VRM4U)、[**Mignon Style**さんの**Markdown記法 チートシート**](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)、[**akiyoko**さんの**GitHub の Wiki に画像を貼り付ける一番簡単な方法（Wiki リポジトリを clone しないバージョン）**](https://akiyoko.hatenablog.jp/entry/2016/08/30/051708)を参考に、作成させていただきました。
+こちらのREADMEを作成にあたっては、
+- [**Alwei**さんの**PPCelShader**](https://github.com/alwei/PPCelShader)
+- [**はるべぇ**さんの**VRM4U**](https://github.com/ruyo/VRM4U)
+- [**Mignon Style**さんの**Markdown記法 チートシート**](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
+- [**akiyoko**さんの**GitHub の Wiki に画像を貼り付ける一番簡単な方法（Wiki リポジトリを clone しないバージョン）**](https://akiyoko.hatenablog.jp/entry/2016/08/30/051708)
+
+を参考に、作成させていただきました。
 
 いつも情報共有感謝します！
 
