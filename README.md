@@ -28,19 +28,24 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 - 基本機能だけなので、通常のUE4が動く環境であれば、動くと思います。
 
 ## 使い方
-まずダウンロード
+- まずダウンロード
 
 ![TPSprite_download2](https://user-images.githubusercontent.com/62424367/106183353-75fe4280-61e3-11eb-8b74-b1c2e51bba05.jpg)
 
-いつもUE4プロジェクトを置いてる場所にZipを解答し、プロジェクトデータをダブルクリックで開く。
+- いつもUE4プロジェクトを置いてる場所にZipを解答し、プロジェクトデータをダブルクリックで開く。
 
 ![TPSprite_003](https://user-images.githubusercontent.com/62424367/106184384-cfb33c80-61e4-11eb-8abc-1ca02876bae7.jpg)
 
-Epicランチャーから開いてもいいです。
+- Epicランチャーから開いてもいいです。
 
 ![TPSprite_004](https://user-images.githubusercontent.com/62424367/106185900-d773e080-61e6-11eb-9e6d-671cca8a18b1.jpg)
 
-今回の処理のメインは、こちらのThirdPersonSprite4way（4方向）とThirdPersonSprite8way（8方向）になります。
+- 今回の処理のメインは、こちらのThirdPersonSprite4way（4方向）とThirdPersonSprite8way（8方向）になります。
+
+![TPSprite_005](https://user-images.githubusercontent.com/62424367/106186737-0179d280-61e8-11eb-9fb2-f43d51b63993.jpg)
+
+
+
 
 
 画像のインポート設定などに関しては、こちらも併せてご確認ください。
