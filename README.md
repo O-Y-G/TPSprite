@@ -68,6 +68,8 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 
 - Sampleフォルダに今回使ったキャラクター画像があるので、手書きでこの枚数書くと、出来上がります。（大変）
 - まずはidle画像を4枚だけ用意して、差し替えてみることをお勧めします。
+- なお、今回のグレイマンのドット化は、こちらのツールを使って書き出したものになります。
+  - [3D to Pixel：ブループリント - UE マーケットプレイス](https://www.unrealengine.com/marketplace/ja/product/3d-to-pixels)
 
 ## ライセンス
 完全なパブリックドメインとして公開します。
