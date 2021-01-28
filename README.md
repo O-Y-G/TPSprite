@@ -38,7 +38,9 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 
 Epicランチャーから開いてもいいです。
 
+![TPSprite_004](https://user-images.githubusercontent.com/62424367/106185900-d773e080-61e6-11eb-9e6d-671cca8a18b1.jpg)
 
+今回の処理のメインは、こちらのThirdPersonSprite4way（4方向）とThirdPersonSprite8way（8方向）になります。
 
 
 画像のインポート設定などに関しては、こちらも併せてご確認ください。
