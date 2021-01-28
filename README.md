@@ -45,18 +45,18 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 ![TPSprite_005](https://user-images.githubusercontent.com/62424367/106186737-0179d280-61e8-11eb-9fb2-f43d51b63993.jpg)
 
 - 今回の動画制作は、Tickで処理をしています。(滑らかな方が見栄えが良い為。)
-- 処理速度が気になる場合は、Timer by Eventなどで代用してください。
+- 処理速度が気になる場合は、Tickの代わりにTimer by Eventなどで代用してください。
 - NPC用のデータは、Timerで、距離に応じて処理速度が変わるようになっています。
 - 関数　UpdateFlipbookをダブルクリックで開いてください。
 
+![TPSprite_006](https://user-images.githubusercontent.com/62424367/106187779-697ce880-61e9-11eb-8ea6-cfbc88c0d324.jpg)
 
-
-
+- Selectのタブに、Flipbookをしていすれば、画像が差し変わります。
 
 画像のインポート設定などに関しては、こちらも併せてご確認ください。
 - [UE4で2Dドット絵ゲームを作る際のTipsまとめ。 - Qiita](https://qiita.com/O_Y_G/items/cc1b4920a2b4a6bfd921)
 
-
+- [UE4 2Dアクションゲームを作ろう #1 ドット絵キャラクター編 -YouTube](https://youtu.be/fo3xTxEyq-w)
 
 まだ書く
 
