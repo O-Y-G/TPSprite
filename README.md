@@ -13,9 +13,8 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 
 ## 特徴
 2D画像を用意するだけで、3D空間上でキャラクターを動かすことができます。
-| 画像 | 画像 |
-----|---- 
-| 画像 | 画像 |
+
+![TPSprite2](https://user-images.githubusercontent.com/62424367/106193927-81586a80-61f1-11eb-9eb9-da26bba331b7.gif)
 
 最低限必要な素材は、正面　左右　後ろ姿　の4枚の画像が必要です。
 
