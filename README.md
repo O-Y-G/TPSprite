@@ -35,7 +35,7 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 
 ![TPSprite_download2](https://user-images.githubusercontent.com/62424367/106183353-75fe4280-61e3-11eb-8b74-b1c2e51bba05.jpg)
 
-- いつもUE4プロジェクトを置いてる場所にZipを解答し、プロジェクトデータをダブルクリックで開く。
+- いつもUE4プロジェクトを置いてる場所にZipを解凍し、プロジェクトデータをダブルクリックで開く。
 
 ![TPSprite_003](https://user-images.githubusercontent.com/62424367/106184384-cfb33c80-61e4-11eb-8abc-1ca02876bae7.jpg)
 
