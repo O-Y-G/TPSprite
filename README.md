@@ -44,8 +44,9 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 ![TPSprite_005](https://user-images.githubusercontent.com/62424367/106186737-0179d280-61e8-11eb-9fb2-f43d51b63993.jpg)
 
 - 今回の動画制作は、Tickで処理をしています。(滑らかな方が、動画的に見栄えが良い為)
-- また、Materialでカメラ方向を向かせようとすると、影がついてこなかったので、影がいらない場合は、同梱のマテリアルを使うといいと思います。
 - 処理速度が気になる場合は、Tickの代わりにTimer by Eventなどで代用してください。
+- また、Materialでカメラ方向を向かせようとすると、影がついてこなかった為CPU側の処理にしています。
+- 影がいらない場合は、同梱のマテリアルを、Sprite To Camera　の関数の代わりに使うといいと思います。
 - NPC用のデータは、Timerで、距離に応じて処理速度が変わるようになっています。
 - 関数　UpdateFlipbookをダブルクリックで開いてください。
 
