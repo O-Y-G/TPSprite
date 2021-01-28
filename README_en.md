@@ -48,7 +48,7 @@ An 8-way image makes for a slightly richer picture creation. (It's hard to make 
 ![TPSprite_005](https://user-images.githubusercontent.com/62424367/106186737-0179d280-61e8-11eb-9fb2-f43d51b63993.jpg)
 
 - This video production is processed with Tick. (The smoother it is, the better it looks in the video.)
-- If you are concerned about the processing speed, use Timer by Event instead of Tick.
+- If you are concerned about the processing load, you can use Timer by Event instead of Tick.
 - Also, when I tried to make the camera face the direction of the Material, the shadows didn't follow, so I made it a CPU-side process.
 - If you don't want shadows, you can use the included material instead of the Sprite To Camera function.
 - The data for NPCs is a Timer, which changes the processing speed depending on the distance.
