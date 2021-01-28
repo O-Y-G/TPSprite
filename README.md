@@ -19,9 +19,6 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 ----|---- 
 | 画像 | 画像 |
 
-画像のインポート設定などに関しては、こちらも併せてご確認ください。
-- [UE4で2Dドット絵ゲームを作る際のTipsまとめ。 - Qiita](https://qiita.com/O_Y_G/items/cc1b4920a2b4a6bfd921)
-
 最低限必要な素材は、正面　左右　後ろ姿　の4枚の画像が必要です。
 
 8方向の画像があると、少しリッチな絵作りになります。(たくさん作るのは大変です）
@@ -34,6 +31,11 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 
 ## 使い方
 - 
+
+
+
+画像のインポート設定などに関しては、こちらも併せてご確認ください。
+- [UE4で2Dドット絵ゲームを作る際のTipsまとめ。 - Qiita](https://qiita.com/O_Y_G/items/cc1b4920a2b4a6bfd921)
 
 
 
