@@ -44,6 +44,11 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 
 ![TPSprite_005](https://user-images.githubusercontent.com/62424367/106186737-0179d280-61e8-11eb-9fb2-f43d51b63993.jpg)
 
+- 今回の動画制作は、Tickで処理をしています。(滑らかな方が見栄えが良い為。)
+- 処理速度が気になる場合は、Timer by Eventなどで代用してください。
+- NPC用のデータは、Timerで、距離に応じて処理速度が変わるようになっています。
+- 関数　UpdateFlipbookをダブルクリックで開いてください。
+
 
 
 
