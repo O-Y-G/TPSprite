@@ -48,7 +48,7 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 
 ## ライセンス
 完全なパブリックドメインとして公開します。
-
+https://github.com/O-Y-G/TPSprite/blob/main/LICENSE
 
 ## リリース履歴
 - 2021/01/29 公開
@@ -64,7 +64,7 @@ GitHubのデータアップロードに関しては、[**関サヴァイヴァ�
 
 誰か、このプロジェクトを参考に、楽しいものを作ってくれたら嬉しいです。
 
-PS1の時代から3Dに傾倒しなかった未来を見れたら嬉しいです。
+PS1の時代から3Dキャラクターに傾倒しなかった未来を見れたら嬉しいです。
 
 ## 作った人
 [@O_Y_G](https://twitter.com/O_Y_G)
