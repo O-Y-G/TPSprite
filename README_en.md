@@ -72,7 +72,7 @@ I'll try to explain it in a video in a little while.
   - [3D to Pixel: Blueprints - UE Marketplace](https://www.unrealengine.com/marketplace/ja/product/3d-to-pixels)
 
 ## License
-It will be released as fully public domain.
+Public domain (copyright free)
 
 https://github.com/O-Y-G/TPSprite/blob/main/LICENSE
 
