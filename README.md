@@ -72,7 +72,7 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
   - [3D to Pixel：ブループリント - UE マーケットプレイス](https://www.unrealengine.com/marketplace/ja/product/3d-to-pixels)
 
 ## ライセンス
-完全なパブリックドメインとして公開します。
+パブリックドメイン（著作権フリーです）
 
 https://github.com/O-Y-G/TPSprite/blob/main/LICENSE
 
