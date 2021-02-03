@@ -77,6 +77,7 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 https://github.com/O-Y-G/TPSprite/blob/main/LICENSE
 
 ## リリース履歴
+- 2021/02/04 画像の裏を表示していた為、表になるように修正しました。
 - 2021/01/29 公開
 
 ## おわりに
