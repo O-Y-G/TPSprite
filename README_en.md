@@ -76,6 +76,7 @@ Public domain (copyright free)
 https://github.com/O-Y-G/TPSprite/blob/main/LICENSE
 
 ## Release History
+- 2021/02/04 The back of the image was being displayed, so it has been corrected to show the front.
 - 2021/01/29 public
 
 ## In closing
