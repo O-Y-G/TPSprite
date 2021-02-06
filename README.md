@@ -61,7 +61,9 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
   - [UE4で2Dドット絵ゲームを作る際のTipsまとめ。 - Qiita](https://qiita.com/O_Y_G/items/cc1b4920a2b4a6bfd921)
   - [UE4 2Dアクションゲームを作ろう #1 ドット絵キャラクター編 -YouTube](https://youtu.be/fo3xTxEyq-w)
 
-少ししたら、動画で説明しようと思います。
+少ししたら、動画で説明しようと思います。↓
+
+https://www.youtube.com/playlist?list=PLmoIIqJZj1GVqnRYb2AArHZ5RwCMJLZ7B
 
 ## Sample画像
 ![TPSprite_007](https://user-images.githubusercontent.com/62424367/106200576-88d04180-61fa-11eb-9da4-0b379251f0da.jpg)
