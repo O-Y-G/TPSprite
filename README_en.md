@@ -60,7 +60,9 @@ An 8-way image makes for a slightly richer picture creation. (It's hard to make 
   - [A collection of tips for making 2D dot art games in UE4. - Qiita](https://qiita.com/O_Y_G/items/cc1b4920a2b4a6bfd921)
   - [Let's make a UE4 2D action game #1 Dot-drawn characters -YouTube](https://youtu.be/fo3xTxEyq-w)
 
-I'll try to explain it in a video in a little while.
+I'll try to explain it in a video in a little while.↓
+
+https://www.youtube.com/playlist?list=PLmoIIqJZj1GVqnRYb2AArHZ5RwCMJLZ7B
 
 ## Sample images
 ![TPSprite_007](https://user-images.githubusercontent.com/62424367/106200576-88d04180-61fa-11eb-9da4-0b379251f0da.jpg)
