@@ -31,6 +31,9 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 - 基本機能だけなので、通常のUE4が動く環境であれば、動くと思います。
 
 ## 使い方
+
+- [使い方の説明動画作りました。](https://www.youtube.com/playlist?list=PLmoIIqJZj1GVqnRYb2AArHZ5RwCMJLZ7B) 
+
 - まずダウンロード
 
 ![TPSprite_download2](https://user-images.githubusercontent.com/62424367/106183353-75fe4280-61e3-11eb-8b74-b1c2e51bba05.jpg)
