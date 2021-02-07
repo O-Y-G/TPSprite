@@ -30,6 +30,9 @@ An 8-way image makes for a slightly richer picture creation. (It's hard to make 
 - It's just a basic function, so it will work on any environment that can run regular UE4.
 
 ## How to use
+
+- [**≫【Click here for a video explaining how to use it.】**](https://www.youtube.com/playlist?list=PLmoIIqJZj1GVqnRYb2AArHZ5RwCMJLZ7B) 
+
 - First, download
 
 ![TPSprite_download2](https://user-images.githubusercontent.com/62424367/106183353-75fe4280-61e3-11eb-8b74-b1c2e51bba05.jpg)
