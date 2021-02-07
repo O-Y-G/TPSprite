@@ -32,7 +32,7 @@ Unreal Engine 4 Third Person Sprite Project は、ちょっと長いので以下
 
 ## 使い方
 
-- [**【使い方の説明動画はこちら】**](https://www.youtube.com/playlist?list=PLmoIIqJZj1GVqnRYb2AArHZ5RwCMJLZ7B) 
+- [**≫【使い方の説明動画はこちら】**](https://www.youtube.com/playlist?list=PLmoIIqJZj1GVqnRYb2AArHZ5RwCMJLZ7B) 
 
 - まずダウンロード
 
